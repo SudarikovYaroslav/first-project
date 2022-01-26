@@ -1,6 +1,6 @@
 class Praktikum{
 	public static void main(String[] args){
-		int a;
-		String s;
+		int a = 0;
+		String s = "Some tekst";
 	}
 }
